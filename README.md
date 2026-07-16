@@ -139,6 +139,10 @@ An optional `output_on` column (`true`/`false` or `1`/`0`) also turns that
 channel's output on or off at the same time. If the column is missing
 entirely, playback only touches setpoints and leaves outputs alone.
 
+The format is the same for recording and playback so you can reuse a CSV saved
+from the graph feature to build a sequence for playback. Just remember to adjust
+the values, especially for current.
+
 Example:
 
 ```csv
