@@ -6,6 +6,8 @@ It talks directly to the device's own SCPI socket on your
 local network.
 
 ![platform](https://img.shields.io/badge/platform-macOS%2014%2B-blue)
+![screenshot](Screenshot.png)
+
 
 > Built with AI for my own personal use with a specific device on hand, so I
 > likely won't be putting much time into it — no promised support or
