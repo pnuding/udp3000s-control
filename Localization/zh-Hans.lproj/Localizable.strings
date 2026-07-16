@@ -1,0 +1,91 @@
+"Connected" = "已连接";
+"Not connected" = "未连接";
+"Disconnected" = "连接已断开";
+
+"Channel 1+2 are combined in SERIES mode." = "通道 1+2 已组合为串联模式。";
+"Channel 1+2 are combined in PARALLEL mode." = "通道 1+2 已组合为并联模式。";
+
+"Turn all outputs off" = "关闭所有输出";
+"Turn all outputs on" = "打开所有输出";
+"Connection settings" = "连接设置";
+"Open graph window" = "打开图表窗口";
+"Playback" = "回放";
+
+"Setpoint range: 0–%@V" = "设定值范围：0–%@V";
+"Setpoint range: 0–%@A" = "设定值范围：0–%@A";
+"%@ voltage setpoint" = "%@ 电压设定值";
+"%@ current setpoint" = "%@ 电流设定值";
+"Apply setpoint changes" = "应用设定值更改";
+"Turn %@ output off" = "关闭 %@ 输出";
+"Turn %@ output on" = "打开 %@ 输出";
+
+"Tap to cycle W / Wh / mAh" = "点按可在 W / Wh / mAh 之间切换";
+
+"Protection settings" = "保护设置";
+"Protection - %@" = "保护 - %@";
+"Enable over-voltage protection" = "启用过压保护";
+"Enable over-current protection" = "启用过流保护";
+"Apply protection changes" = "应用保护设置更改";
+"Output turns off if voltage exceeds this threshold (0–%@V)" = "如果电压超过此阈值，输出将关闭（0–%@V）";
+"Output turns off if current exceeds this threshold (0–%@A)" = "如果电流超过此阈值，输出将关闭（0–%@A）";
+"%@ over-voltage protection threshold" = "%@ 过压保护阈值";
+"%@ over-current protection threshold" = "%@ 过流保护阈值";
+
+"Connection" = "连接";
+"Host" = "主机";
+"Reconnect" = "重新连接";
+"Connect" = "连接";
+
+"Choose CSV…" = "选择 CSV…";
+"Load a CSV file of setpoints to play back" = "加载包含设定值的 CSV 文件以进行回放";
+"Stop" = "停止";
+"Play" = "播放";
+"Play back the loaded CSV" = "回放已加载的 CSV";
+"Stop playback" = "停止回放";
+
+"Start" = "开始";
+"Stop recording readings" = "停止记录读数";
+"Start recording readings" = "开始记录读数";
+"Clear" = "清除";
+"Clear all recorded data" = "清除所有已记录的数据";
+"Export CSV…" = "导出 CSV…";
+"Save recorded data as a CSV file" = "将记录的数据保存为 CSV 文件";
+"Show %@ on the chart" = "在图表中显示 %@";
+"Hide %@ from the chart" = "在图表中隐藏 %@";
+"Time (s)" = "时间（秒）";
+"Voltage (V)" = "电压（V）";
+"Current (A)" = "电流（A）";
+
+"Channel 1" = "通道 1";
+"Channel 2" = "通道 2";
+"Channel 3" = "通道 3";
+"Series (Ch1+Ch2)" = "串联（通道1+通道2）";
+"Parallel (Ch1+Ch2)" = "并联（通道1+通道2）";
+
+"UDP3000S Control" = "UDP3000S 控制";
+"%@ Control" = "%@ 控制";
+
+"Read error: %@" = "读取错误：%@";
+"Toggle failed: %@" = "切换失败：%@";
+"Setpoint failed: %@" = "设定值设置失败：%@";
+"Protection failed: %@" = "保护设置失败：%@";
+
+"Could not read file." = "无法读取文件。";
+"Loaded %@ rows." = "已加载 %@ 行。";
+"Failed to parse CSV: %@" = "解析 CSV 失败：%@";
+"Applied %@ @ t=%@s" = "已应用 %@，时间 t=%@ 秒";
+"Playback error: %@" = "回放错误：%@";
+"Playback stopped." = "回放已停止。";
+"Playback finished." = "回放已完成。";
+"File selection failed: %@" = "文件选择失败：%@";
+
+"not connected" = "未连接";
+"no reply" = "无响应";
+"connection closed by device" = "设备已关闭连接";
+"could not decode reply" = "无法解码响应";
+"timed out waiting for device" = "等待设备超时";
+
+"Could not save CSV" = "无法保存 CSV";
+
+"OVP tripped at %@" = "OVP 于 %@ 触发";
+"OCP tripped at %@" = "OCP 于 %@ 触发";

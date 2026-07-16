@@ -1,0 +1,105 @@
+/* Connection status (icon tooltip / accessibility label) */
+"Connected" = "Connected";
+"Not connected" = "Not connected";
+"Disconnected" = "Disconnected";
+
+/* Mode warning banner */
+"Channel 1+2 are combined in SERIES mode." = "Channel 1+2 are combined in SERIES mode.";
+"Channel 1+2 are combined in PARALLEL mode." = "Channel 1+2 are combined in PARALLEL mode.";
+
+/* Toolbar */
+"Turn all outputs off" = "Turn all outputs off";
+"Turn all outputs on" = "Turn all outputs on";
+"Connection settings" = "Connection settings";
+"Open graph window" = "Open graph window";
+"Playback" = "Playback";
+
+/* Channel card - setpoints */
+"Setpoint range: 0–%@V" = "Setpoint range: 0–%@V";
+"Setpoint range: 0–%@A" = "Setpoint range: 0–%@A";
+"%@ voltage setpoint" = "%@ voltage setpoint";
+"%@ current setpoint" = "%@ current setpoint";
+"Apply setpoint changes" = "Apply setpoint changes";
+"Turn %@ output off" = "Turn %@ output off";
+"Turn %@ output on" = "Turn %@ output on";
+
+/* Channel card - wattage / energy */
+"Tap to cycle W / Wh / mAh" = "Tap to cycle W / Wh / mAh";
+
+/* Channel card - protection */
+"Protection settings" = "Protection settings";
+"Protection - %@" = "Protection - %@";
+"Enable over-voltage protection" = "Enable over-voltage protection";
+"Enable over-current protection" = "Enable over-current protection";
+"Apply protection changes" = "Apply protection changes";
+"Output turns off if voltage exceeds this threshold (0–%@V)" = "Output turns off if voltage exceeds this threshold (0–%@V)";
+"Output turns off if current exceeds this threshold (0–%@A)" = "Output turns off if current exceeds this threshold (0–%@A)";
+"%@ over-voltage protection threshold" = "%@ over-voltage protection threshold";
+"%@ over-current protection threshold" = "%@ over-current protection threshold";
+
+/* Connection settings popover */
+"Connection" = "Connection";
+"Host" = "Host";
+"Reconnect" = "Reconnect";
+"Connect" = "Connect";
+
+/* Playback popover */
+"Choose CSV…" = "Choose CSV…";
+"Load a CSV file of setpoints to play back" = "Load a CSV file of setpoints to play back";
+"Stop" = "Stop";
+"Play" = "Play";
+"Play back the loaded CSV" = "Play back the loaded CSV";
+"Stop playback" = "Stop playback";
+
+/* Graph window */
+"Start" = "Start";
+"Stop recording readings" = "Stop recording readings";
+"Start recording readings" = "Start recording readings";
+"Clear" = "Clear";
+"Clear all recorded data" = "Clear all recorded data";
+"Export CSV…" = "Export CSV…";
+"Save recorded data as a CSV file" = "Save recorded data as a CSV file";
+"Show %@ on the chart" = "Show %@ on the chart";
+"Hide %@ from the chart" = "Hide %@ from the chart";
+"Time (s)" = "Time (s)";
+"Voltage (V)" = "Voltage (V)";
+"Current (A)" = "Current (A)";
+
+/* Channel labels */
+"Channel 1" = "Channel 1";
+"Channel 2" = "Channel 2";
+"Channel 3" = "Channel 3";
+"Series (Ch1+Ch2)" = "Series (Ch1+Ch2)";
+"Parallel (Ch1+Ch2)" = "Parallel (Ch1+Ch2)";
+
+/* Window title */
+"UDP3000S Control" = "UDP3000S Control";
+"%@ Control" = "%@ Control";
+
+/* Status messages */
+"Read error: %@" = "Read error: %@";
+"Toggle failed: %@" = "Toggle failed: %@";
+"Setpoint failed: %@" = "Setpoint failed: %@";
+"Protection failed: %@" = "Protection failed: %@";
+
+/* Playback status messages */
+"Could not read file." = "Could not read file.";
+"Loaded %@ rows." = "Loaded %@ rows.";
+"Failed to parse CSV: %@" = "Failed to parse CSV: %@";
+"Applied %@ @ t=%@s" = "Applied %@ @ t=%@s";
+"Playback error: %@" = "Playback error: %@";
+"Playback stopped." = "Playback stopped.";
+"Playback finished." = "Playback finished.";
+"File selection failed: %@" = "File selection failed: %@";
+
+/* Device connection errors */
+"not connected" = "not connected";
+"no reply" = "no reply";
+"connection closed by device" = "connection closed by device";
+"could not decode reply" = "could not decode reply";
+"timed out waiting for device" = "timed out waiting for device";
+
+"Could not save CSV" = "Could not save CSV";
+
+"OVP tripped at %@" = "OVP tripped at %@";
+"OCP tripped at %@" = "OCP tripped at %@";

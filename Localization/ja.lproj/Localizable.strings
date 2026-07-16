@@ -1,0 +1,91 @@
+"Connected" = "接続済み";
+"Not connected" = "未接続";
+"Disconnected" = "切断されました";
+
+"Channel 1+2 are combined in SERIES mode." = "チャンネル1+2は直列モードで結合されています。";
+"Channel 1+2 are combined in PARALLEL mode." = "チャンネル1+2は並列モードで結合されています。";
+
+"Turn all outputs off" = "すべての出力をオフにする";
+"Turn all outputs on" = "すべての出力をオンにする";
+"Connection settings" = "接続設定";
+"Open graph window" = "グラフウィンドウを開く";
+"Playback" = "再生";
+
+"Setpoint range: 0–%@V" = "設定値範囲：0–%@V";
+"Setpoint range: 0–%@A" = "設定値範囲：0–%@A";
+"%@ voltage setpoint" = "%@ 電圧設定値";
+"%@ current setpoint" = "%@ 電流設定値";
+"Apply setpoint changes" = "設定値の変更を適用";
+"Turn %@ output off" = "%@ の出力をオフにする";
+"Turn %@ output on" = "%@ の出力をオンにする";
+
+"Tap to cycle W / Wh / mAh" = "タップして W / Wh / mAh を切り替え";
+
+"Protection settings" = "保護設定";
+"Protection - %@" = "保護 - %@";
+"Enable over-voltage protection" = "過電圧保護を有効にする";
+"Enable over-current protection" = "過電流保護を有効にする";
+"Apply protection changes" = "保護設定の変更を適用";
+"Output turns off if voltage exceeds this threshold (0–%@V)" = "電圧がこのしきい値を超えると出力がオフになります（0–%@V）";
+"Output turns off if current exceeds this threshold (0–%@A)" = "電流がこのしきい値を超えると出力がオフになります（0–%@A）";
+"%@ over-voltage protection threshold" = "%@ 過電圧保護しきい値";
+"%@ over-current protection threshold" = "%@ 過電流保護しきい値";
+
+"Connection" = "接続";
+"Host" = "ホスト";
+"Reconnect" = "再接続";
+"Connect" = "接続";
+
+"Choose CSV…" = "CSVを選択…";
+"Load a CSV file of setpoints to play back" = "再生する設定値のCSVファイルを読み込む";
+"Stop" = "停止";
+"Play" = "再生";
+"Play back the loaded CSV" = "読み込んだCSVを再生する";
+"Stop playback" = "再生を停止";
+
+"Start" = "開始";
+"Stop recording readings" = "測定値の記録を停止";
+"Start recording readings" = "測定値の記録を開始";
+"Clear" = "クリア";
+"Clear all recorded data" = "記録したデータをすべてクリア";
+"Export CSV…" = "CSVを書き出す…";
+"Save recorded data as a CSV file" = "記録したデータをCSVファイルとして保存";
+"Show %@ on the chart" = "グラフに %@ を表示";
+"Hide %@ from the chart" = "グラフから %@ を非表示";
+"Time (s)" = "時間（秒）";
+"Voltage (V)" = "電圧（V）";
+"Current (A)" = "電流（A）";
+
+"Channel 1" = "チャンネル1";
+"Channel 2" = "チャンネル2";
+"Channel 3" = "チャンネル3";
+"Series (Ch1+Ch2)" = "直列（Ch1+Ch2）";
+"Parallel (Ch1+Ch2)" = "並列（Ch1+Ch2）";
+
+"UDP3000S Control" = "UDP3000S コントロール";
+"%@ Control" = "%@ コントロール";
+
+"Read error: %@" = "読み取りエラー：%@";
+"Toggle failed: %@" = "切り替えに失敗しました：%@";
+"Setpoint failed: %@" = "設定値の適用に失敗しました：%@";
+"Protection failed: %@" = "保護設定の適用に失敗しました：%@";
+
+"Could not read file." = "ファイルを読み込めませんでした。";
+"Loaded %@ rows." = "%@ 行を読み込みました。";
+"Failed to parse CSV: %@" = "CSVの解析に失敗しました：%@";
+"Applied %@ @ t=%@s" = "%@ を t=%@秒 に適用しました";
+"Playback error: %@" = "再生エラー：%@";
+"Playback stopped." = "再生を停止しました。";
+"Playback finished." = "再生が終了しました。";
+"File selection failed: %@" = "ファイルの選択に失敗しました：%@";
+
+"not connected" = "未接続";
+"no reply" = "応答なし";
+"connection closed by device" = "デバイスによって接続が閉じられました";
+"could not decode reply" = "応答をデコードできませんでした";
+"timed out waiting for device" = "デバイスの応答待機がタイムアウトしました";
+
+"Could not save CSV" = "CSVを保存できませんでした";
+
+"OVP tripped at %@" = "OVP が %@ に動作しました";
+"OCP tripped at %@" = "OCP が %@ に動作しました";

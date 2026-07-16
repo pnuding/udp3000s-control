@@ -1,0 +1,91 @@
+"Connected" = "Připojeno";
+"Not connected" = "Nepřipojeno";
+"Disconnected" = "Odpojeno";
+
+"Channel 1+2 are combined in SERIES mode." = "Kanály 1+2 jsou spojeny v SÉRIOVÉM režimu.";
+"Channel 1+2 are combined in PARALLEL mode." = "Kanály 1+2 jsou spojeny v PARALELNÍM režimu.";
+
+"Turn all outputs off" = "Vypnout všechny výstupy";
+"Turn all outputs on" = "Zapnout všechny výstupy";
+"Connection settings" = "Nastavení připojení";
+"Open graph window" = "Otevřít okno grafu";
+"Playback" = "Přehrávání";
+
+"Setpoint range: 0–%@V" = "Rozsah nastavené hodnoty: 0–%@V";
+"Setpoint range: 0–%@A" = "Rozsah nastavené hodnoty: 0–%@A";
+"%@ voltage setpoint" = "Nastavené napětí %@";
+"%@ current setpoint" = "Nastavený proud %@";
+"Apply setpoint changes" = "Použít změny nastavené hodnoty";
+"Turn %@ output off" = "Vypnout výstup %@";
+"Turn %@ output on" = "Zapnout výstup %@";
+
+"Tap to cycle W / Wh / mAh" = "Klepnutím přepnete mezi W / Wh / mAh";
+
+"Protection settings" = "Nastavení ochran";
+"Protection - %@" = "Ochrana - %@";
+"Enable over-voltage protection" = "Povolit ochranu proti přepětí";
+"Enable over-current protection" = "Povolit ochranu proti nadproudu";
+"Apply protection changes" = "Použít změny ochrany";
+"Output turns off if voltage exceeds this threshold (0–%@V)" = "Výstup se vypne, pokud napětí překročí tuto mez (0–%@V)";
+"Output turns off if current exceeds this threshold (0–%@A)" = "Výstup se vypne, pokud proud překročí tuto mez (0–%@A)";
+"%@ over-voltage protection threshold" = "Mez ochrany proti přepětí %@";
+"%@ over-current protection threshold" = "Mez ochrany proti nadproudu %@";
+
+"Connection" = "Připojení";
+"Host" = "Host";
+"Reconnect" = "Připojit znovu";
+"Connect" = "Připojit";
+
+"Choose CSV…" = "Vybrat CSV…";
+"Load a CSV file of setpoints to play back" = "Načíst soubor CSV s nastavenými hodnotami k přehrání";
+"Stop" = "Zastavit";
+"Play" = "Přehrát";
+"Play back the loaded CSV" = "Přehrát načtený soubor CSV";
+"Stop playback" = "Zastavit přehrávání";
+
+"Start" = "Spustit";
+"Stop recording readings" = "Zastavit záznam hodnot";
+"Start recording readings" = "Spustit záznam hodnot";
+"Clear" = "Vymazat";
+"Clear all recorded data" = "Vymazat všechna zaznamenaná data";
+"Export CSV…" = "Exportovat CSV…";
+"Save recorded data as a CSV file" = "Uložit zaznamenaná data jako soubor CSV";
+"Show %@ on the chart" = "Zobrazit %@ v grafu";
+"Hide %@ from the chart" = "Skrýt %@ z grafu";
+"Time (s)" = "Čas (s)";
+"Voltage (V)" = "Napětí (V)";
+"Current (A)" = "Proud (A)";
+
+"Channel 1" = "Kanál 1";
+"Channel 2" = "Kanál 2";
+"Channel 3" = "Kanál 3";
+"Series (Ch1+Ch2)" = "Sériově (K1+K2)";
+"Parallel (Ch1+Ch2)" = "Paralelně (K1+K2)";
+
+"UDP3000S Control" = "Ovládání UDP3000S";
+"%@ Control" = "Ovládání %@";
+
+"Read error: %@" = "Chyba čtení: %@";
+"Toggle failed: %@" = "Přepnutí se nezdařilo: %@";
+"Setpoint failed: %@" = "Nastavení hodnoty se nezdařilo: %@";
+"Protection failed: %@" = "Nastavení ochrany se nezdařilo: %@";
+
+"Could not read file." = "Soubor se nepodařilo přečíst.";
+"Loaded %@ rows." = "Načteno %@ řádků.";
+"Failed to parse CSV: %@" = "Soubor CSV se nepodařilo zpracovat: %@";
+"Applied %@ @ t=%@s" = "Použito %@ v čase t=%@s";
+"Playback error: %@" = "Chyba přehrávání: %@";
+"Playback stopped." = "Přehrávání zastaveno.";
+"Playback finished." = "Přehrávání dokončeno.";
+"File selection failed: %@" = "Výběr souboru se nezdařil: %@";
+
+"not connected" = "nepřipojeno";
+"no reply" = "žádná odpověď";
+"connection closed by device" = "připojení uzavřeno zařízením";
+"could not decode reply" = "odpověď se nepodařilo dekódovat";
+"timed out waiting for device" = "vypršel čas při čekání na zařízení";
+
+"Could not save CSV" = "Soubor CSV se nepodařilo uložit";
+
+"OVP tripped at %@" = "OVP se aktivovalo v %@";
+"OCP tripped at %@" = "OCP se aktivovalo v %@";

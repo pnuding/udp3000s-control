@@ -1,0 +1,91 @@
+"Connected" = "Connecté";
+"Not connected" = "Non connecté";
+"Disconnected" = "Déconnecté";
+
+"Channel 1+2 are combined in SERIES mode." = "Les canaux 1+2 sont combinés en mode SÉRIE.";
+"Channel 1+2 are combined in PARALLEL mode." = "Les canaux 1+2 sont combinés en mode PARALLÈLE.";
+
+"Turn all outputs off" = "Éteindre toutes les sorties";
+"Turn all outputs on" = "Allumer toutes les sorties";
+"Connection settings" = "Paramètres de connexion";
+"Open graph window" = "Ouvrir la fenêtre du graphique";
+"Playback" = "Lecture";
+
+"Setpoint range: 0–%@V" = "Plage de consigne : 0–%@V";
+"Setpoint range: 0–%@A" = "Plage de consigne : 0–%@A";
+"%@ voltage setpoint" = "Consigne de tension de %@";
+"%@ current setpoint" = "Consigne de courant de %@";
+"Apply setpoint changes" = "Appliquer les modifications de consigne";
+"Turn %@ output off" = "Éteindre la sortie de %@";
+"Turn %@ output on" = "Allumer la sortie de %@";
+
+"Tap to cycle W / Wh / mAh" = "Appuyez pour basculer entre W / Wh / mAh";
+
+"Protection settings" = "Paramètres de protection";
+"Protection - %@" = "Protection - %@";
+"Enable over-voltage protection" = "Activer la protection contre les surtensions";
+"Enable over-current protection" = "Activer la protection contre les surintensités";
+"Apply protection changes" = "Appliquer les modifications de protection";
+"Output turns off if voltage exceeds this threshold (0–%@V)" = "La sortie s'éteint si la tension dépasse ce seuil (0–%@V)";
+"Output turns off if current exceeds this threshold (0–%@A)" = "La sortie s'éteint si le courant dépasse ce seuil (0–%@A)";
+"%@ over-voltage protection threshold" = "Seuil de protection contre les surtensions de %@";
+"%@ over-current protection threshold" = "Seuil de protection contre les surintensités de %@";
+
+"Connection" = "Connexion";
+"Host" = "Hôte";
+"Reconnect" = "Reconnecter";
+"Connect" = "Connecter";
+
+"Choose CSV…" = "Choisir un CSV…";
+"Load a CSV file of setpoints to play back" = "Charger un fichier CSV de consignes à lire";
+"Stop" = "Arrêter";
+"Play" = "Lire";
+"Play back the loaded CSV" = "Lire le CSV chargé";
+"Stop playback" = "Arrêter la lecture";
+
+"Start" = "Démarrer";
+"Stop recording readings" = "Arrêter l'enregistrement des mesures";
+"Start recording readings" = "Démarrer l'enregistrement des mesures";
+"Clear" = "Effacer";
+"Clear all recorded data" = "Effacer toutes les données enregistrées";
+"Export CSV…" = "Exporter en CSV…";
+"Save recorded data as a CSV file" = "Enregistrer les données sous forme de fichier CSV";
+"Show %@ on the chart" = "Afficher %@ sur le graphique";
+"Hide %@ from the chart" = "Masquer %@ du graphique";
+"Time (s)" = "Temps (s)";
+"Voltage (V)" = "Tension (V)";
+"Current (A)" = "Courant (A)";
+
+"Channel 1" = "Canal 1";
+"Channel 2" = "Canal 2";
+"Channel 3" = "Canal 3";
+"Series (Ch1+Ch2)" = "Série (C1+C2)";
+"Parallel (Ch1+Ch2)" = "Parallèle (C1+C2)";
+
+"UDP3000S Control" = "Contrôle UDP3000S";
+"%@ Control" = "Contrôle %@";
+
+"Read error: %@" = "Erreur de lecture : %@";
+"Toggle failed: %@" = "Échec de la commutation : %@";
+"Setpoint failed: %@" = "Échec de la consigne : %@";
+"Protection failed: %@" = "Échec de la protection : %@";
+
+"Could not read file." = "Impossible de lire le fichier.";
+"Loaded %@ rows." = "%@ lignes chargées.";
+"Failed to parse CSV: %@" = "Échec de l'analyse du CSV : %@";
+"Applied %@ @ t=%@s" = "%@ appliqué à t=%@s";
+"Playback error: %@" = "Erreur de lecture : %@";
+"Playback stopped." = "Lecture arrêtée.";
+"Playback finished." = "Lecture terminée.";
+"File selection failed: %@" = "Échec de la sélection du fichier : %@";
+
+"not connected" = "non connecté";
+"no reply" = "aucune réponse";
+"connection closed by device" = "connexion fermée par l'appareil";
+"could not decode reply" = "impossible de décoder la réponse";
+"timed out waiting for device" = "délai d'attente dépassé pour l'appareil";
+
+"Could not save CSV" = "Impossible d'enregistrer le CSV";
+
+"OVP tripped at %@" = "OVP déclenchée à %@";
+"OCP tripped at %@" = "OCP déclenchée à %@";

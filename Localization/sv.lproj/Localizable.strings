@@ -1,0 +1,91 @@
+"Connected" = "Ansluten";
+"Not connected" = "Inte ansluten";
+"Disconnected" = "Frånkopplad";
+
+"Channel 1+2 are combined in SERIES mode." = "Kanal 1+2 är kombinerade i SERIE-läge.";
+"Channel 1+2 are combined in PARALLEL mode." = "Kanal 1+2 är kombinerade i PARALLELL-läge.";
+
+"Turn all outputs off" = "Stäng av alla utgångar";
+"Turn all outputs on" = "Slå på alla utgångar";
+"Connection settings" = "Anslutningsinställningar";
+"Open graph window" = "Öppna diagramfönster";
+"Playback" = "Uppspelning";
+
+"Setpoint range: 0–%@V" = "Börvärdesintervall: 0–%@V";
+"Setpoint range: 0–%@A" = "Börvärdesintervall: 0–%@A";
+"%@ voltage setpoint" = "Spänningsbörvärde för %@";
+"%@ current setpoint" = "Strömbörvärde för %@";
+"Apply setpoint changes" = "Tillämpa ändringar av börvärde";
+"Turn %@ output off" = "Stäng av utgången för %@";
+"Turn %@ output on" = "Slå på utgången för %@";
+
+"Tap to cycle W / Wh / mAh" = "Tryck för att växla mellan W / Wh / mAh";
+
+"Protection settings" = "Skyddsinställningar";
+"Protection - %@" = "Skydd - %@";
+"Enable over-voltage protection" = "Aktivera överspänningsskydd";
+"Enable over-current protection" = "Aktivera överströmsskydd";
+"Apply protection changes" = "Tillämpa ändringar av skydd";
+"Output turns off if voltage exceeds this threshold (0–%@V)" = "Utgången stängs av om spänningen överskrider denna gräns (0–%@V)";
+"Output turns off if current exceeds this threshold (0–%@A)" = "Utgången stängs av om strömmen överskrider denna gräns (0–%@A)";
+"%@ over-voltage protection threshold" = "Överspänningsskyddsgräns för %@";
+"%@ over-current protection threshold" = "Överströmsskyddsgräns för %@";
+
+"Connection" = "Anslutning";
+"Host" = "Host";
+"Reconnect" = "Anslut igen";
+"Connect" = "Anslut";
+
+"Choose CSV…" = "Välj CSV…";
+"Load a CSV file of setpoints to play back" = "Läs in en CSV-fil med börvärden att spela upp";
+"Stop" = "Stoppa";
+"Play" = "Spela upp";
+"Play back the loaded CSV" = "Spela upp den inlästa CSV-filen";
+"Stop playback" = "Stoppa uppspelning";
+
+"Start" = "Starta";
+"Stop recording readings" = "Stoppa inspelning av mätvärden";
+"Start recording readings" = "Starta inspelning av mätvärden";
+"Clear" = "Rensa";
+"Clear all recorded data" = "Rensa alla inspelade data";
+"Export CSV…" = "Exportera CSV…";
+"Save recorded data as a CSV file" = "Spara inspelade data som en CSV-fil";
+"Show %@ on the chart" = "Visa %@ i diagrammet";
+"Hide %@ from the chart" = "Dölj %@ från diagrammet";
+"Time (s)" = "Tid (s)";
+"Voltage (V)" = "Spänning (V)";
+"Current (A)" = "Ström (A)";
+
+"Channel 1" = "Kanal 1";
+"Channel 2" = "Kanal 2";
+"Channel 3" = "Kanal 3";
+"Series (Ch1+Ch2)" = "Serie (K1+K2)";
+"Parallel (Ch1+Ch2)" = "Parallell (K1+K2)";
+
+"UDP3000S Control" = "UDP3000S-styrning";
+"%@ Control" = "%@-styrning";
+
+"Read error: %@" = "Läsfel: %@";
+"Toggle failed: %@" = "Växling misslyckades: %@";
+"Setpoint failed: %@" = "Börvärde misslyckades: %@";
+"Protection failed: %@" = "Skydd misslyckades: %@";
+
+"Could not read file." = "Kunde inte läsa filen.";
+"Loaded %@ rows." = "%@ rader inlästa.";
+"Failed to parse CSV: %@" = "Det gick inte att tolka CSV: %@";
+"Applied %@ @ t=%@s" = "%@ tillämpad vid t=%@s";
+"Playback error: %@" = "Uppspelningsfel: %@";
+"Playback stopped." = "Uppspelning stoppad.";
+"Playback finished." = "Uppspelning avslutad.";
+"File selection failed: %@" = "Filval misslyckades: %@";
+
+"not connected" = "inte ansluten";
+"no reply" = "inget svar";
+"connection closed by device" = "anslutningen stängdes av enheten";
+"could not decode reply" = "det gick inte att avkoda svaret";
+"timed out waiting for device" = "tidsgräns nåddes vid väntan på enheten";
+
+"Could not save CSV" = "CSV kunde inte sparas";
+
+"OVP tripped at %@" = "OVP löste ut kl. %@";
+"OCP tripped at %@" = "OCP löste ut kl. %@";

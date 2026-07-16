@@ -1,0 +1,91 @@
+"Connected" = "연결됨";
+"Not connected" = "연결되지 않음";
+"Disconnected" = "연결 끊김";
+
+"Channel 1+2 are combined in SERIES mode." = "채널 1+2가 직렬 모드로 결합되어 있습니다.";
+"Channel 1+2 are combined in PARALLEL mode." = "채널 1+2가 병렬 모드로 결합되어 있습니다.";
+
+"Turn all outputs off" = "모든 출력 끄기";
+"Turn all outputs on" = "모든 출력 켜기";
+"Connection settings" = "연결 설정";
+"Open graph window" = "그래프 창 열기";
+"Playback" = "재생";
+
+"Setpoint range: 0–%@V" = "설정값 범위: 0–%@V";
+"Setpoint range: 0–%@A" = "설정값 범위: 0–%@A";
+"%@ voltage setpoint" = "%@ 전압 설정값";
+"%@ current setpoint" = "%@ 전류 설정값";
+"Apply setpoint changes" = "설정값 변경 적용";
+"Turn %@ output off" = "%@ 출력 끄기";
+"Turn %@ output on" = "%@ 출력 켜기";
+
+"Tap to cycle W / Wh / mAh" = "탭하여 W / Wh / mAh 전환";
+
+"Protection settings" = "보호 설정";
+"Protection - %@" = "보호 - %@";
+"Enable over-voltage protection" = "과전압 보호 활성화";
+"Enable over-current protection" = "과전류 보호 활성화";
+"Apply protection changes" = "보호 설정 변경 적용";
+"Output turns off if voltage exceeds this threshold (0–%@V)" = "전압이 이 임계값을 초과하면 출력이 꺼집니다 (0–%@V)";
+"Output turns off if current exceeds this threshold (0–%@A)" = "전류가 이 임계값을 초과하면 출력이 꺼집니다 (0–%@A)";
+"%@ over-voltage protection threshold" = "%@ 과전압 보호 임계값";
+"%@ over-current protection threshold" = "%@ 과전류 보호 임계값";
+
+"Connection" = "연결";
+"Host" = "호스트";
+"Reconnect" = "다시 연결";
+"Connect" = "연결";
+
+"Choose CSV…" = "CSV 선택…";
+"Load a CSV file of setpoints to play back" = "재생할 설정값 CSV 파일 불러오기";
+"Stop" = "정지";
+"Play" = "재생";
+"Play back the loaded CSV" = "불러온 CSV 재생";
+"Stop playback" = "재생 정지";
+
+"Start" = "시작";
+"Stop recording readings" = "측정값 기록 중지";
+"Start recording readings" = "측정값 기록 시작";
+"Clear" = "지우기";
+"Clear all recorded data" = "기록된 모든 데이터 지우기";
+"Export CSV…" = "CSV 내보내기…";
+"Save recorded data as a CSV file" = "기록된 데이터를 CSV 파일로 저장";
+"Show %@ on the chart" = "차트에 %@ 표시";
+"Hide %@ from the chart" = "차트에서 %@ 숨기기";
+"Time (s)" = "시간 (초)";
+"Voltage (V)" = "전압 (V)";
+"Current (A)" = "전류 (A)";
+
+"Channel 1" = "채널 1";
+"Channel 2" = "채널 2";
+"Channel 3" = "채널 3";
+"Series (Ch1+Ch2)" = "직렬 (채널1+채널2)";
+"Parallel (Ch1+Ch2)" = "병렬 (채널1+채널2)";
+
+"UDP3000S Control" = "UDP3000S 제어";
+"%@ Control" = "%@ 제어";
+
+"Read error: %@" = "읽기 오류: %@";
+"Toggle failed: %@" = "전환 실패: %@";
+"Setpoint failed: %@" = "설정값 적용 실패: %@";
+"Protection failed: %@" = "보호 설정 적용 실패: %@";
+
+"Could not read file." = "파일을 읽을 수 없습니다.";
+"Loaded %@ rows." = "%@개 행을 불러왔습니다.";
+"Failed to parse CSV: %@" = "CSV 분석 실패: %@";
+"Applied %@ @ t=%@s" = "%@ 적용됨 (t=%@초)";
+"Playback error: %@" = "재생 오류: %@";
+"Playback stopped." = "재생이 중지되었습니다.";
+"Playback finished." = "재생이 완료되었습니다.";
+"File selection failed: %@" = "파일 선택 실패: %@";
+
+"not connected" = "연결되지 않음";
+"no reply" = "응답 없음";
+"connection closed by device" = "장치에 의해 연결이 종료됨";
+"could not decode reply" = "응답을 디코딩할 수 없음";
+"timed out waiting for device" = "장치 응답 대기 시간 초과";
+
+"Could not save CSV" = "CSV를 저장할 수 없습니다";
+
+"OVP tripped at %@" = "OVP가 %@에 작동했습니다";
+"OCP tripped at %@" = "OCP가 %@에 작동했습니다";

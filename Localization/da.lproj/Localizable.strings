@@ -1,0 +1,91 @@
+"Connected" = "Forbundet";
+"Not connected" = "Ikke forbundet";
+"Disconnected" = "Afbrudt";
+
+"Channel 1+2 are combined in SERIES mode." = "Kanal 1+2 er kombineret i SERIE-tilstand.";
+"Channel 1+2 are combined in PARALLEL mode." = "Kanal 1+2 er kombineret i PARALLEL-tilstand.";
+
+"Turn all outputs off" = "Sluk alle udgange";
+"Turn all outputs on" = "Tænd alle udgange";
+"Connection settings" = "Forbindelsesindstillinger";
+"Open graph window" = "Åbn grafvindue";
+"Playback" = "Afspilning";
+
+"Setpoint range: 0–%@V" = "Sætpunktsområde: 0–%@V";
+"Setpoint range: 0–%@A" = "Sætpunktsområde: 0–%@A";
+"%@ voltage setpoint" = "Spændingssætpunkt for %@";
+"%@ current setpoint" = "Strømsætpunkt for %@";
+"Apply setpoint changes" = "Anvend ændringer af sætpunkt";
+"Turn %@ output off" = "Sluk udgangen for %@";
+"Turn %@ output on" = "Tænd udgangen for %@";
+
+"Tap to cycle W / Wh / mAh" = "Tryk for at skifte mellem W / Wh / mAh";
+
+"Protection settings" = "Beskyttelsesindstillinger";
+"Protection - %@" = "Beskyttelse - %@";
+"Enable over-voltage protection" = "Aktivér overspændingsbeskyttelse";
+"Enable over-current protection" = "Aktivér overstrømsbeskyttelse";
+"Apply protection changes" = "Anvend ændringer af beskyttelse";
+"Output turns off if voltage exceeds this threshold (0–%@V)" = "Udgangen slukker, hvis spændingen overstiger denne grænse (0–%@V)";
+"Output turns off if current exceeds this threshold (0–%@A)" = "Udgangen slukker, hvis strømmen overstiger denne grænse (0–%@A)";
+"%@ over-voltage protection threshold" = "Overspændingsbeskyttelsesgrænse for %@";
+"%@ over-current protection threshold" = "Overstrømsbeskyttelsesgrænse for %@";
+
+"Connection" = "Forbindelse";
+"Host" = "Host";
+"Reconnect" = "Genopret forbindelse";
+"Connect" = "Opret forbindelse";
+
+"Choose CSV…" = "Vælg CSV…";
+"Load a CSV file of setpoints to play back" = "Indlæs en CSV-fil med sætpunkter til afspilning";
+"Stop" = "Stop";
+"Play" = "Afspil";
+"Play back the loaded CSV" = "Afspil den indlæste CSV";
+"Stop playback" = "Stop afspilning";
+
+"Start" = "Start";
+"Stop recording readings" = "Stop optagelse af målinger";
+"Start recording readings" = "Start optagelse af målinger";
+"Clear" = "Ryd";
+"Clear all recorded data" = "Ryd alle optagede data";
+"Export CSV…" = "Eksportér CSV…";
+"Save recorded data as a CSV file" = "Gem optagede data som CSV-fil";
+"Show %@ on the chart" = "Vis %@ i grafen";
+"Hide %@ from the chart" = "Skjul %@ fra grafen";
+"Time (s)" = "Tid (s)";
+"Voltage (V)" = "Spænding (V)";
+"Current (A)" = "Strøm (A)";
+
+"Channel 1" = "Kanal 1";
+"Channel 2" = "Kanal 2";
+"Channel 3" = "Kanal 3";
+"Series (Ch1+Ch2)" = "Serie (K1+K2)";
+"Parallel (Ch1+Ch2)" = "Parallel (K1+K2)";
+
+"UDP3000S Control" = "UDP3000S-styring";
+"%@ Control" = "%@-styring";
+
+"Read error: %@" = "Læsefejl: %@";
+"Toggle failed: %@" = "Skift mislykkedes: %@";
+"Setpoint failed: %@" = "Sætpunkt mislykkedes: %@";
+"Protection failed: %@" = "Beskyttelse mislykkedes: %@";
+
+"Could not read file." = "Kunne ikke læse filen.";
+"Loaded %@ rows." = "%@ rækker indlæst.";
+"Failed to parse CSV: %@" = "Kunne ikke fortolke CSV: %@";
+"Applied %@ @ t=%@s" = "%@ anvendt ved t=%@s";
+"Playback error: %@" = "Afspilningsfejl: %@";
+"Playback stopped." = "Afspilning stoppet.";
+"Playback finished." = "Afspilning afsluttet.";
+"File selection failed: %@" = "Filvalg mislykkedes: %@";
+
+"not connected" = "ikke forbundet";
+"no reply" = "intet svar";
+"connection closed by device" = "forbindelse lukket af enheden";
+"could not decode reply" = "kunne ikke afkode svar";
+"timed out waiting for device" = "timeout ved venten på enheden";
+
+"Could not save CSV" = "CSV kunne ikke gemmes";
+
+"OVP tripped at %@" = "OVP udløst kl. %@";
+"OCP tripped at %@" = "OCP udløst kl. %@";

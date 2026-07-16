@@ -1,0 +1,91 @@
+"Connected" = "Verbonden";
+"Not connected" = "Niet verbonden";
+"Disconnected" = "Verbinding verbroken";
+
+"Channel 1+2 are combined in SERIES mode." = "Kanaal 1+2 zijn gecombineerd in SERIE-modus.";
+"Channel 1+2 are combined in PARALLEL mode." = "Kanaal 1+2 zijn gecombineerd in PARALLEL-modus.";
+
+"Turn all outputs off" = "Alle uitgangen uitschakelen";
+"Turn all outputs on" = "Alle uitgangen inschakelen";
+"Connection settings" = "Verbindingsinstellingen";
+"Open graph window" = "Grafiekvenster openen";
+"Playback" = "Afspelen";
+
+"Setpoint range: 0–%@V" = "Instelbereik: 0–%@V";
+"Setpoint range: 0–%@A" = "Instelbereik: 0–%@A";
+"%@ voltage setpoint" = "Spanningsinstelling van %@";
+"%@ current setpoint" = "Stroominstelling van %@";
+"Apply setpoint changes" = "Instellingswijzigingen toepassen";
+"Turn %@ output off" = "Uitgang van %@ uitschakelen";
+"Turn %@ output on" = "Uitgang van %@ inschakelen";
+
+"Tap to cycle W / Wh / mAh" = "Tik om te wisselen tussen W / Wh / mAh";
+
+"Protection settings" = "Beveiligingsinstellingen";
+"Protection - %@" = "Beveiliging - %@";
+"Enable over-voltage protection" = "Overspanningsbeveiliging inschakelen";
+"Enable over-current protection" = "Overstroombeveiliging inschakelen";
+"Apply protection changes" = "Beveiligingswijzigingen toepassen";
+"Output turns off if voltage exceeds this threshold (0–%@V)" = "De uitgang schakelt uit als de spanning deze drempel overschrijdt (0–%@V)";
+"Output turns off if current exceeds this threshold (0–%@A)" = "De uitgang schakelt uit als de stroom deze drempel overschrijdt (0–%@A)";
+"%@ over-voltage protection threshold" = "Overspanningsbeveiligingsdrempel van %@";
+"%@ over-current protection threshold" = "Overstroombeveiligingsdrempel van %@";
+
+"Connection" = "Verbinding";
+"Host" = "Host";
+"Reconnect" = "Opnieuw verbinden";
+"Connect" = "Verbinden";
+
+"Choose CSV…" = "CSV kiezen…";
+"Load a CSV file of setpoints to play back" = "Laad een CSV-bestand met instellingen om af te spelen";
+"Stop" = "Stop";
+"Play" = "Afspelen";
+"Play back the loaded CSV" = "Speel de geladen CSV af";
+"Stop playback" = "Afspelen stoppen";
+
+"Start" = "Start";
+"Stop recording readings" = "Stop met het vastleggen van metingen";
+"Start recording readings" = "Start met het vastleggen van metingen";
+"Clear" = "Wissen";
+"Clear all recorded data" = "Alle vastgelegde gegevens wissen";
+"Export CSV…" = "CSV exporteren…";
+"Save recorded data as a CSV file" = "Vastgelegde gegevens opslaan als CSV-bestand";
+"Show %@ on the chart" = "%@ tonen in de grafiek";
+"Hide %@ from the chart" = "%@ verbergen in de grafiek";
+"Time (s)" = "Tijd (s)";
+"Voltage (V)" = "Spanning (V)";
+"Current (A)" = "Stroom (A)";
+
+"Channel 1" = "Kanaal 1";
+"Channel 2" = "Kanaal 2";
+"Channel 3" = "Kanaal 3";
+"Series (Ch1+Ch2)" = "Serie (K1+K2)";
+"Parallel (Ch1+Ch2)" = "Parallel (K1+K2)";
+
+"UDP3000S Control" = "UDP3000S-besturing";
+"%@ Control" = "%@-besturing";
+
+"Read error: %@" = "Leesfout: %@";
+"Toggle failed: %@" = "Schakelen mislukt: %@";
+"Setpoint failed: %@" = "Instelling mislukt: %@";
+"Protection failed: %@" = "Beveiliging mislukt: %@";
+
+"Could not read file." = "Kan bestand niet lezen.";
+"Loaded %@ rows." = "%@ rijen geladen.";
+"Failed to parse CSV: %@" = "CSV kon niet worden verwerkt: %@";
+"Applied %@ @ t=%@s" = "%@ toegepast bij t=%@s";
+"Playback error: %@" = "Afspeelfout: %@";
+"Playback stopped." = "Afspelen gestopt.";
+"Playback finished." = "Afspelen voltooid.";
+"File selection failed: %@" = "Bestandsselectie mislukt: %@";
+
+"not connected" = "niet verbonden";
+"no reply" = "geen antwoord";
+"connection closed by device" = "verbinding gesloten door het apparaat";
+"could not decode reply" = "antwoord kon niet worden gedecodeerd";
+"timed out waiting for device" = "time-out bij het wachten op het apparaat";
+
+"Could not save CSV" = "CSV kon niet worden opgeslagen";
+
+"OVP tripped at %@" = "OVP geactiveerd om %@";
+"OCP tripped at %@" = "OCP geactiveerd om %@";

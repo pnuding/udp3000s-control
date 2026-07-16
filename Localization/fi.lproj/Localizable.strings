@@ -1,0 +1,91 @@
+"Connected" = "Yhdistetty";
+"Not connected" = "Ei yhteyttä";
+"Disconnected" = "Yhteys katkaistu";
+
+"Channel 1+2 are combined in SERIES mode." = "Kanavat 1+2 on yhdistetty SARJA-tilassa.";
+"Channel 1+2 are combined in PARALLEL mode." = "Kanavat 1+2 on yhdistetty RINNAKKAIS-tilassa.";
+
+"Turn all outputs off" = "Sammuta kaikki lähdöt";
+"Turn all outputs on" = "Kytke kaikki lähdöt päälle";
+"Connection settings" = "Yhteysasetukset";
+"Open graph window" = "Avaa kaavioikkuna";
+"Playback" = "Toisto";
+
+"Setpoint range: 0–%@V" = "Asetusarvon alue: 0–%@V";
+"Setpoint range: 0–%@A" = "Asetusarvon alue: 0–%@A";
+"%@ voltage setpoint" = "Kanavan %@ jännitteen asetusarvo";
+"%@ current setpoint" = "Kanavan %@ virran asetusarvo";
+"Apply setpoint changes" = "Käytä asetusarvon muutoksia";
+"Turn %@ output off" = "Sammuta kanavan %@ lähtö";
+"Turn %@ output on" = "Kytke kanavan %@ lähtö päälle";
+
+"Tap to cycle W / Wh / mAh" = "Napauta vaihtaaksesi W / Wh / mAh välillä";
+
+"Protection settings" = "Suoja-asetukset";
+"Protection - %@" = "Suoja - %@";
+"Enable over-voltage protection" = "Ota ylijännitesuoja käyttöön";
+"Enable over-current protection" = "Ota ylivirtasuoja käyttöön";
+"Apply protection changes" = "Käytä suojauksen muutoksia";
+"Output turns off if voltage exceeds this threshold (0–%@V)" = "Lähtö sammuu, jos jännite ylittää tämän rajan (0–%@V)";
+"Output turns off if current exceeds this threshold (0–%@A)" = "Lähtö sammuu, jos virta ylittää tämän rajan (0–%@A)";
+"%@ over-voltage protection threshold" = "Kanavan %@ ylijännitesuojan raja";
+"%@ over-current protection threshold" = "Kanavan %@ ylivirtasuojan raja";
+
+"Connection" = "Yhteys";
+"Host" = "Host";
+"Reconnect" = "Yhdistä uudelleen";
+"Connect" = "Yhdistä";
+
+"Choose CSV…" = "Valitse CSV…";
+"Load a CSV file of setpoints to play back" = "Lataa CSV-tiedosto asetusarvoista toistettavaksi";
+"Stop" = "Pysäytä";
+"Play" = "Toista";
+"Play back the loaded CSV" = "Toista ladattu CSV";
+"Stop playback" = "Pysäytä toisto";
+
+"Start" = "Aloita";
+"Stop recording readings" = "Lopeta mittausten tallennus";
+"Start recording readings" = "Aloita mittausten tallennus";
+"Clear" = "Tyhjennä";
+"Clear all recorded data" = "Tyhjennä kaikki tallennetut tiedot";
+"Export CSV…" = "Vie CSV…";
+"Save recorded data as a CSV file" = "Tallenna tallennetut tiedot CSV-tiedostona";
+"Show %@ on the chart" = "Näytä %@ kaaviossa";
+"Hide %@ from the chart" = "Piilota %@ kaaviosta";
+"Time (s)" = "Aika (s)";
+"Voltage (V)" = "Jännite (V)";
+"Current (A)" = "Virta (A)";
+
+"Channel 1" = "Kanava 1";
+"Channel 2" = "Kanava 2";
+"Channel 3" = "Kanava 3";
+"Series (Ch1+Ch2)" = "Sarja (K1+K2)";
+"Parallel (Ch1+Ch2)" = "Rinnakkain (K1+K2)";
+
+"UDP3000S Control" = "UDP3000S-ohjaus";
+"%@ Control" = "%@-ohjaus";
+
+"Read error: %@" = "Lukuvirhe: %@";
+"Toggle failed: %@" = "Kytkentä epäonnistui: %@";
+"Setpoint failed: %@" = "Asetusarvo epäonnistui: %@";
+"Protection failed: %@" = "Suoja epäonnistui: %@";
+
+"Could not read file." = "Tiedostoa ei voitu lukea.";
+"Loaded %@ rows." = "%@ riviä ladattu.";
+"Failed to parse CSV: %@" = "CSV:n jäsennys epäonnistui: %@";
+"Applied %@ @ t=%@s" = "%@ käytetty ajanhetkellä t=%@s";
+"Playback error: %@" = "Toistovirhe: %@";
+"Playback stopped." = "Toisto pysäytetty.";
+"Playback finished." = "Toisto valmis.";
+"File selection failed: %@" = "Tiedoston valinta epäonnistui: %@";
+
+"not connected" = "ei yhteyttä";
+"no reply" = "ei vastausta";
+"connection closed by device" = "laite sulki yhteyden";
+"could not decode reply" = "vastausta ei voitu tulkita";
+"timed out waiting for device" = "aikakatkaisu odotettaessa laitetta";
+
+"Could not save CSV" = "CSV-tiedostoa ei voitu tallentaa";
+
+"OVP tripped at %@" = "OVP laukesi klo %@";
+"OCP tripped at %@" = "OCP laukesi klo %@";

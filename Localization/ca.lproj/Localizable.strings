@@ -1,0 +1,91 @@
+"Connected" = "Connectat";
+"Not connected" = "No connectat";
+"Disconnected" = "Desconnectat";
+
+"Channel 1+2 are combined in SERIES mode." = "Els canals 1+2 estan combinats en mode SÈRIE.";
+"Channel 1+2 are combined in PARALLEL mode." = "Els canals 1+2 estan combinats en mode PARAL·LEL.";
+
+"Turn all outputs off" = "Apagar totes les sortides";
+"Turn all outputs on" = "Encendre totes les sortides";
+"Connection settings" = "Configuració de connexió";
+"Open graph window" = "Obrir finestra de gràfic";
+"Playback" = "Reproducció";
+
+"Setpoint range: 0–%@V" = "Rang de consigna: 0–%@V";
+"Setpoint range: 0–%@A" = "Rang de consigna: 0–%@A";
+"%@ voltage setpoint" = "Consigna de tensió de %@";
+"%@ current setpoint" = "Consigna de corrent de %@";
+"Apply setpoint changes" = "Aplicar canvis de consigna";
+"Turn %@ output off" = "Apagar la sortida de %@";
+"Turn %@ output on" = "Encendre la sortida de %@";
+
+"Tap to cycle W / Wh / mAh" = "Toca per alternar entre W / Wh / mAh";
+
+"Protection settings" = "Configuració de protecció";
+"Protection - %@" = "Protecció - %@";
+"Enable over-voltage protection" = "Activar protecció de sobretensió";
+"Enable over-current protection" = "Activar protecció de sobrecorrent";
+"Apply protection changes" = "Aplicar canvis de protecció";
+"Output turns off if voltage exceeds this threshold (0–%@V)" = "La sortida s'apaga si la tensió supera aquest llindar (0–%@V)";
+"Output turns off if current exceeds this threshold (0–%@A)" = "La sortida s'apaga si el corrent supera aquest llindar (0–%@A)";
+"%@ over-voltage protection threshold" = "Llindar de protecció de sobretensió de %@";
+"%@ over-current protection threshold" = "Llindar de protecció de sobrecorrent de %@";
+
+"Connection" = "Connexió";
+"Host" = "Host";
+"Reconnect" = "Reconnectar";
+"Connect" = "Connectar";
+
+"Choose CSV…" = "Tria CSV…";
+"Load a CSV file of setpoints to play back" = "Carrega un fitxer CSV de consignes per reproduir";
+"Stop" = "Atura";
+"Play" = "Reprodueix";
+"Play back the loaded CSV" = "Reprodueix el CSV carregat";
+"Stop playback" = "Atura la reproducció";
+
+"Start" = "Inicia";
+"Stop recording readings" = "Atura el registre de lectures";
+"Start recording readings" = "Inicia el registre de lectures";
+"Clear" = "Esborra";
+"Clear all recorded data" = "Esborra totes les dades registrades";
+"Export CSV…" = "Exporta CSV…";
+"Save recorded data as a CSV file" = "Desa les dades registrades com a fitxer CSV";
+"Show %@ on the chart" = "Mostra %@ al gràfic";
+"Hide %@ from the chart" = "Amaga %@ del gràfic";
+"Time (s)" = "Temps (s)";
+"Voltage (V)" = "Tensió (V)";
+"Current (A)" = "Corrent (A)";
+
+"Channel 1" = "Canal 1";
+"Channel 2" = "Canal 2";
+"Channel 3" = "Canal 3";
+"Series (Ch1+Ch2)" = "Sèrie (C1+C2)";
+"Parallel (Ch1+Ch2)" = "Paral·lel (C1+C2)";
+
+"UDP3000S Control" = "Control UDP3000S";
+"%@ Control" = "Control %@";
+
+"Read error: %@" = "Error de lectura: %@";
+"Toggle failed: %@" = "Ha fallat el commutador: %@";
+"Setpoint failed: %@" = "Ha fallat la consigna: %@";
+"Protection failed: %@" = "Ha fallat la protecció: %@";
+
+"Could not read file." = "No s'ha pogut llegir el fitxer.";
+"Loaded %@ rows." = "%@ files carregades.";
+"Failed to parse CSV: %@" = "Error en analitzar el CSV: %@";
+"Applied %@ @ t=%@s" = "%@ aplicat a t=%@s";
+"Playback error: %@" = "Error de reproducció: %@";
+"Playback stopped." = "Reproducció aturada.";
+"Playback finished." = "Reproducció finalitzada.";
+"File selection failed: %@" = "Ha fallat la selecció del fitxer: %@";
+
+"not connected" = "no connectat";
+"no reply" = "sense resposta";
+"connection closed by device" = "connexió tancada pel dispositiu";
+"could not decode reply" = "no s'ha pogut descodificar la resposta";
+"timed out waiting for device" = "temps d'espera esgotat per al dispositiu";
+
+"Could not save CSV" = "No s'ha pogut desar el CSV";
+
+"OVP tripped at %@" = "OVP s'ha disparat a les %@";
+"OCP tripped at %@" = "OCP s'ha disparat a les %@";
